@@ -1,3 +1,13 @@
 # Obscura
 
 ##### **Obscura** est un jeu d'horreur immersif en réalité virtuelle se déroulant dans une forêt mystérieuse, avec un manoir obsédant en son centre.
+
+**Game Story:**
+
+Le jeu a une histoire qui n'est pas evidente mais peut être découvert a travers plusieurs indices dans la zone où ce situe le joueur. L'histoire est ceci: La famille Barnett, une famille paisible composée d'une mère, d'un père, de deux enfants et d'un oncle vivant dans une ferme isolée. Les jours s'écoulaient tranquillement jusqu'à l'apparition soudaine d'une vive lumière au cœur de la forêt avoisinante. Intriguée, la famille s'aventure pour découvrir la source de cette lumière et se retrouve face à une créature extraterrestre aux traits mystérieux. La créature semble amicale, et les enfants en développent une affection particulière. Plutôt que de la tuer, la famille décide de la garder pour voir comment les choses évoluent. Avec le temps, la créature se développe, mais un jour, elle blesse accidentellement un des enfants. Voyant la douleur causée à l'enfant, la famille tente de chasser la créature en utilisant des armes à feu, déclenchant ainsi un massacre brutal. La créature assassine impitoyablement tous les membres de la famille, laissant des traces de sang sur les murs et de la chair en décomposition dans certaines parties de la propriété.
+
+**Gameplay:**
+
+"Dans la Brume" offre une expérience de jeu décontractée où les joueurs se glissent dans la peau d'un voyageur en plein road trip. Alors que vous cherchez à raccourcir votre chemin à travers une forêt mystérieuse, une brume épaisse vous enveloppe, vous laissant désorienté. Après de longues heures de voyage, votre véhicule tombe en panne sèche. C'est alors que vous apercevez une propriété abandonnée à proximité et décidez de fouiller les environs pour trouver du carburant afin de reprendre votre voyage. C'est le début de votre aventure.
+
+Les joueurs doivent être prudents, car la créature extraterrestre, hantée par son chagrin éternel, erre toujours dans la région. Les joueurs peuvent utiliser une arme à feu qu'ils ont apportée pour se défendre, mais celle-ci ne sera pas suffisante pour tuer la créature, car sa puissance est limitée et les munitions sont rares. Pour mettre fin au cauchemar, les joueurs doivent trouver un vieux fusil de chasse dissimulé quelque part dans la région. Ils peuvent choisir parmi trois fins possibles : collecter les six bidons de carburant et s'échapper en voiture, tenter de tuer la créature avec l'arme à feu limitée, ou rester dans la voiture pour débloquer la fin secrète où la créature surgit soudainement à l'arrière de la voiture pour tuer le joueur.
