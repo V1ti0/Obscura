@@ -18,5 +18,5 @@ L'histoire cachée derrière "Obscura" révèle le drame de la famille Barnett, 
 ## Moodboard visuel
 ![moodboard](moodboard.png)
 
-## Carte de votre environnement virtuel
+## Carte d'environnement virtuel
 ![map](boohoo.png)
