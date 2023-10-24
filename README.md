@@ -20,3 +20,6 @@ L'histoire cachée derrière "Obscura" révèle le drame de la famille Barnett, 
 
 ## Carte d'environnement virtuel
 ![map](boohoo.png)
+
+## Diagramme
+![diagramme](diagrame.drawio.png)
